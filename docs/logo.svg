@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256">
+  <title>OpenGr2ndma</title>
+  <circle cx="128" cy="128" r="124" fill="#f6ead8" stroke="#7a4b3a" stroke-width="6"/>
+  <!-- rocking chair -->
+  <path d="M60 214 Q128 240 196 214" fill="none" stroke="#8a5a3b" stroke-width="8" stroke-linecap="round"/>
+  <rect x="70" y="96" width="14" height="110" rx="6" fill="#a8704a"/>
+  <!-- body / shawl -->
+  <path d="M84 206 Q80 140 112 118 Q128 108 144 118 Q176 140 172 206 Z" fill="#6c7fb3"/>
+  <path d="M96 132 Q128 160 160 132 L156 150 Q128 176 100 150 Z" fill="#c65b6c"/>
+  <!-- head -->
+  <circle cx="128" cy="88" r="28" fill="#f2c9a8"/>
+  <!-- hair bun -->
+  <path d="M100 84 Q104 56 128 56 Q152 56 156 84 Q150 68 128 68 Q106 68 100 84 Z" fill="#e4e4ea"/>
+  <circle cx="128" cy="50" r="12" fill="#e4e4ea"/>
+  <!-- glasses -->
+  <circle cx="117" cy="90" r="7" fill="none" stroke="#4a3a35" stroke-width="2.5"/>
+  <circle cx="139" cy="90" r="7" fill="none" stroke="#4a3a35" stroke-width="2.5"/>
+  <line x1="124" y1="90" x2="132" y2="90" stroke="#4a3a35" stroke-width="2.5"/>
+  <path d="M120 104 Q128 109 136 104" fill="none" stroke="#8a4a3a" stroke-width="2.5" stroke-linecap="round"/>
+  <circle cx="109" cy="100" r="3.5" fill="#e79a9a"/>
+  <circle cx="147" cy="100" r="3.5" fill="#e79a9a"/>
+  <!-- knitting: a mesh-like swatch with a triangle wireframe -->
+  <rect x="104" y="150" width="48" height="30" rx="4" fill="#d9a441"/>
+  <path d="M104 165 L152 165 M116 150 L116 180 M128 150 L128 180 M140 150 L140 180 M104 150 L116 165 L128 150 L140 165 L152 150 M104 180 L116 165 L128 180 L140 165 L152 180"
+        fill="none" stroke="#9c6b1c" stroke-width="2"/>
+  <!-- needles -->
+  <line x1="88" y1="132" x2="122" y2="182" stroke="#5b5b66" stroke-width="4" stroke-linecap="round"/>
+  <line x1="168" y1="132" x2="134" y2="182" stroke="#5b5b66" stroke-width="4" stroke-linecap="round"/>
+  <circle cx="88" cy="132" r="4" fill="#c65b6c"/>
+  <circle cx="168" cy="132" r="4" fill="#c65b6c"/>
+  <!-- hands -->
+  <circle cx="110" cy="160" r="7" fill="#f2c9a8"/>
+  <circle cx="146" cy="160" r="7" fill="#f2c9a8"/>
+  <!-- yarn ball with thread to the swatch -->
+  <circle cx="196" cy="196" r="20" fill="#c65b6c"/>
+  <path d="M180 186 Q196 178 212 190 M178 198 Q196 190 214 204 M184 210 Q198 202 210 214" fill="none" stroke="#9e3f50" stroke-width="2.5"/>
+  <path d="M152 178 Q170 200 180 192" fill="none" stroke="#c65b6c" stroke-width="2.5"/>
+</svg>
